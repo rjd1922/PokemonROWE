@@ -332,7 +332,7 @@ RustboroCity_Gym_Text_GymGuidePostVictory: @ 82132E2
 	.string "Whoa! What a breathtaking victory!\n"
 	.string "My cheering must've worked!\p"
 	.string "Great!\n"
-	.string "Check your Trainer CARD.\p"
+	.string "Check your Trainer Card.\p"
 	.string "The Stone Badge you got should be\n"
 	.string "properly recorded on it.\p"
 	.string "In other words…\p"
@@ -407,7 +407,7 @@ RustboroCity_Gym_Text_StoneBadgeInfoTakeThis: @ 8213816
 	.string "Please take this with you, too.$"
 
 RustboroCity_Gym_Text_ExplainRockTomb: @ 82138B1
-	.string "That Technical Machina, TM39,\n"
+	.string "That Technical Machine, TM39,\n"
 	.string "contains Rock Tomb.\p"
 	.string "It not only inflicts damage by dropping\n"
 	.string "rocks, it also lowers Speed.\p"
@@ -419,7 +419,7 @@ RustboroCity_Gym_Text_ExplainRockTomb: @ 82138B1
 RustboroCity_Gym_Text_RoxannePostBattle: @ 82139A7
 	.string "Since you are so strong, you should\n"
 	.string "challenge other Gym Leaders.\p"
-	.string "By battling many TrainerS, you should\n"
+	.string "By battling many Trainers, you should\n"
 	.string "learn many things.$"
 
 RustboroCity_Gym_Text_GymStatue: @ 8213A21
@@ -427,7 +427,7 @@ RustboroCity_Gym_Text_GymStatue: @ 8213A21
 
 RustboroCity_Gym_Text_GymStatueCertified: @ 8213A3B
 	.string "Rustboro City Pokémon Gym\p"
-	.string "Roxanne's Certified TrainerS:\n"
+	.string "Roxanne's Certified Trainers:\n"
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
@@ -435,9 +435,9 @@ RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
 	.string "… … … … … Beep!\p"
 	.string "Roxanne: Oh, hello, {PLAYER}?\n"
 	.string "This is Roxanne of Rustboro City.\p"
-	.string "I heard from BRAWLY that you're\n"
+	.string "I heard from Brawly that you're\n"
 	.string "moving up through the ranks of\l"
-	.string "TrainerS at an incredible clip.\p"
+	.string "Trainers at an incredible clip.\p"
 	.string "Well, I'd rather not think that\n"
 	.string "I can't beat you.\p"
 	.string "I promise, I will shape up my Gym\n"
@@ -449,7 +449,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
 
 RustboroCity_Gym_Text_RegisteredRoxanne: @ 8213C01
 	.string "Registered Gym Leader Roxanne\n"
-	.string "in the Pokénav.$"
+	.string "in the PokéNav.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch: @ 8213C2F
 	.string "Roxanne: I'm so glad to see you again.\n"
