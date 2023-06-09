@@ -56,8 +56,8 @@ InsideOfTruck_EventScript_MovingBox:: @ 823BF6C
 	end
 	
 InsideOfTruck_Text_BoxPrintedWithMonLogo: @ 823BF75
-	.string "The box is printed with a POKéMON logo.\p"
-	.string "It's a POKéMON brand moving and\n"
+	.string "The box is printed with a Pokémon logo.\p"
+	.string "It's a Pokémon brand moving and\n"
 	.string "delivery service.$"
 
 //Custom Scripts
@@ -377,7 +377,7 @@ Start_City_Littleroot_Town_Rnd::
 	end
 	
 Text_Start_Littleroot_Town::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Littleroot Town?$"
 	
 //Oldale Town 02
@@ -395,7 +395,7 @@ Start_City_Oldale_Town_Rnd::
 	end
 	
 Text_Start_Oldale_Town::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Oldale Town?$"
 	
 //Petalburg City 03
@@ -413,7 +413,7 @@ Start_City_Petalburg_City_Rnd::
 	end
 	
 Text_Start_Petalburg_City::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Petalburg City?$"
 	
 //Rustboro City 04
@@ -431,7 +431,7 @@ Start_City_Rustboro_City_Rnd::
 	end
 	
 Text_Start_Rustboro_City::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Rustboro City?$"
 	
 //Dewford Town 05
@@ -449,7 +449,7 @@ Start_City_Dewford_Town_Rnd::
 	end
 	
 Text_Start_Dewford_Town::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Dewford Town?$"
 	
 //Slateport City 06
@@ -467,7 +467,7 @@ Start_City_Slateport_City_Rnd::
 	end
 	
 Text_Start_Slateport_City::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Slateport City?$"
 	
 //Mauville City 07
@@ -485,7 +485,7 @@ Start_City_Mauville_City_Rnd::
 	end
 	
 Text_Start_Mauville_City::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Mauville City?$"
 	
 //Verdanturf Town 08
@@ -503,7 +503,7 @@ Start_City_Verdanturf_Town_Rnd::
 	end
 	
 Text_Start_Verdanturf_Town::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Verdanturf Town?$"
 	
 //Fallarbor Town 09
@@ -521,7 +521,7 @@ Start_City_Fallarbor_Town_Rnd::
 	end
 	
 Text_Start_Fallarbor_Town::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Fallarbor Town?$"
 	
 //Lavaridge Town 10
@@ -539,7 +539,7 @@ Start_City_Lavaridge_Town_Rnd::
 	end
 	
 Text_Start_Lavaridge_Town::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Lavaridge Town?$"
 	
 //Fortree City 11
@@ -557,7 +557,7 @@ Start_City_Fortree_City_Rnd::
 	end
 	
 Text_Start_Fortree_City::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Fortree City?$"
 	
 //Lilycove City 12
@@ -575,7 +575,7 @@ Start_City_Lilycove_City_Rnd::
 	end
 	
 Text_Start_Lilycove_City::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Lilycove City?$"
 	
 //Mossdeep City 13
@@ -593,7 +593,7 @@ Start_City_Mossdeep_City_Rnd::
 	end
 	
 Text_Start_Mossdeep_City::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Mossdeep City?$"
 	
 //Sootopolis City 14
@@ -611,7 +611,7 @@ Start_City_Sootopolis_City_Rnd::
 	end
 	
 Text_Start_Sootopolis_City::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Sootopolis City?$"
 	
 //Pacifidlog Town 15
@@ -629,37 +629,37 @@ Start_City_Pacifidlog_Town_Rnd::
 	end
 	
 Text_Start_Pacifidlog_Town::
-	.string "Do you want to start on\n"
+	.string "Do you want to start in\n"
 	.string "Pacifidlog Town?$"
 	
 //Starters
 Start_Text_Starter_Chose:
-	.string "Oh, Welcome to Pokemon ROWE\p"
+	.string "Oh, welcome to Pokémon ROWE.\p"
 	.string "I recommend you to read all the\n"
 	.string "documents that come with the game.\p"
-	.string "Now, lets start with some questions.$"
+	.string "Now, let's start with some questions.$"
 	
 Start_Text_Emulator_Text:
 	.string "Are you using a supported\n"
 	.string "emulator to play this game?$"
 
 Start_Text_Starter_Text:
-	.string "What Pokemon would you like\n"
-	.string "as your starter Pokemon?$"
+	.string "What Pokémon would you like\n"
+	.string "as your starter Pokémon?$"
 
 Start_Text_City_Chose:
 	.string "What city would you like\n"
-	.string "to start in.$"
+	.string "to start in?$"
 	
 Text_Start_Pokeballs::
-	.string "Take these items too.$"
+	.string "Take these items, too.$"
 	
 Text_Start_Pokedex::
-	.string "{PLAYER} obtained the Pokedex.$"
+	.string "{PLAYER} obtained the Pokédex.$"
 	
 Text_Start_Lapras::
 	.string "{PLAYER} can now use Surf and Dive\n"
-	.string "thanks to the Pokeride.$"
+	.string "thanks to the Poké Ride.$"
 
 //Starter Scripts
 
@@ -692,7 +692,7 @@ Script_Give_Starter1_Rnd::
 	end
 
 Text_Take_Starter1:
-	.string "Do you want the Scratch Cat Pokemon\n"
+	.string "Do you want the Scratch Cat Pokémon\n"
 	.string "Meowth?$"
 
 Text_Received_Starter1:
@@ -729,7 +729,7 @@ Script_Give_Starter2_Rnd::
 	end
 
 Text_Take_Starter2:
-	.string "Do you want the Lava Pokemon\n"
+	.string "Do you want the Lava Pokémon\n"
 	.string "Slugma?$"
 
 Text_Received_Starter2:
@@ -766,7 +766,7 @@ Script_Give_Starter3_Rnd::
 	end
 
 Text_Take_Starter3:
-	.string "Do you want the Whiskers Pokemon\n"
+	.string "Do you want the Whiskers Pokémon\n"
 	.string "Barboach?$"
 
 Text_Received_Starter3:
@@ -803,7 +803,7 @@ Script_Give_Starter4_Rnd::
 	end
 
 Text_Take_Starter4:
-	.string "Do you want the Cricket Pokemon\n"
+	.string "Do you want the Cricket Pokémon\n"
 	.string "Kricketot?$"
 
 Text_Received_Starter4:
@@ -840,7 +840,7 @@ Script_Give_Starter5_Rnd::
 	end
 
 Text_Take_Starter5:
-	.string "Do you want the Chill Pokemon\n"
+	.string "Do you want the Chill Pokémon\n"
 	.string "Cubchoo?$"
 
 Text_Received_Starter5:
@@ -877,7 +877,7 @@ Script_Give_Starter6_Rnd::
 	end
 
 Text_Take_Starter6:
-	.string "Do you want the Mount Pokemon\n"
+	.string "Do you want the Mount Pokémon\n"
 	.string "Skiddo?$"
 
 Text_Received_Starter6:
@@ -914,7 +914,7 @@ Script_Give_Starter7_Rnd::
 	end
 
 Text_Take_Starter7:
-	.string "Do you want the Sand Heap Pokemon\n"
+	.string "Do you want the Sand Heap Pokémon\n"
 	.string "Sandygast?$"
 
 Text_Received_Starter7:
@@ -951,7 +951,7 @@ Script_Give_Starter8_Rnd::
 	end
 
 Text_Take_Starter8:
-	.string "Do you want the Copperderm Pokemon\n"
+	.string "Do you want the Copperderm Pokémon\n"
 	.string "Cufant?$"
 
 Text_Received_Starter8:
@@ -988,7 +988,7 @@ Script_Give_Starter9_Rnd::
 	end
 
 Text_Take_Starter9:
-	.string "Do you want the Painter Pokemon\n"
+	.string "Do you want the Painter Pokémon\n"
 	.string "Smeargle?$"
 
 Text_Received_Starter9:
@@ -1014,32 +1014,32 @@ Text_SetClock:
 	.string "before starting.$"
 	
 Text_Mode_Changer:
-	.string "Im the mode changer, do you\n"
+	.string "I'm the mode changer. Do you\n"
 	.string "want to change the game modes?$"	
 	
 Text_Randomize:
 	.string "Do you want to enable\n"
-	.string "the Randomized Mode?$"
+	.string "Randomized Mode?$"
 	
 Text_Inverse:
 	.string "Do you want to enable\n"
-	.string "the Inverse Mode?$"
+	.string "Inverse Mode?$"
 	
 Text_Double:
 	.string "Do you want to enable\n"
-	.string "the Double Battle Mode?$"
+	.string "Double Battle Mode?$"
 	
 Text_Perfect_Ivs:
 	.string "Do you want to enable\n"
-	.string "the Perfect Ivs Mode?$"
+	.string "Perfect IVs Mode?$"
 	
 Text_No_Evs:
 	.string "Do you want to enable\n"
-	.string "the No Evs Mode?$"
+	.string "No EVs Mode?$"
 	
 Text_Normal_Mode:
-	.string "If you made any mistake\n"
-	.string "or want to change anything\p"
+	.string "If you made any mistakes\n"
+	.string "or want to change anything,\p"
 	.string "talk to me again.$"
 	
 Text_Set_Up_Clock:
