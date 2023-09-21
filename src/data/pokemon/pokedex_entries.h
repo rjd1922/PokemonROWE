@@ -10901,7 +10901,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_BLASTOISE] =
     {
-        .categoryName = _("Shellfish"),
+        .categoryName = _("Shell"),
         .height = 16,
         .weight = 855,
         .description = gBlastoisePokedexText,
@@ -11021,7 +11021,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_RATTATA] =
     {
-        .categoryName = _("Mouse"),
+        .categoryName = _("Rat"),
         .height = 3,
         .weight = 35,
         .description = gRattataPokedexText,
@@ -11033,7 +11033,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_RATICATE] =
     {
-        .categoryName = _("Mouse"),
+        .categoryName = _("Rat"),
         .height = 7,
         .weight = 185,
         .description = gRaticatePokedexText,
