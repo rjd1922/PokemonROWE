@@ -1336,7 +1336,6 @@ void PutNewBattleTowerRecord(struct EmeraldBattleTowerRecord *newRecordEm)
         {
             for (k = 0; k < PLAYER_NAME_LENGTH; k++)
             {
-                // BUG: Wrong variable used, 'j' instead of 'k'.
                 if (gSaveBlock2Ptr->frontier.towerRecords[i].name[k] != newRecord->name[k])
                     break;
                 if (newRecord->name[k] == EOS)
