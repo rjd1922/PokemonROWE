@@ -817,23 +817,23 @@ static bool8 DoesAbilityPreventStatus(struct Pokemon *mon, u32 status)
     switch (status)
     {
     case STATUS1_FREEZE:
-        if (ability == ABILITY_MAGMA_ARMOR)
+        if (ability == ABILITY_MAGMA_ARMOR || ability == ABILITY_COMATOSE)
             ret = TRUE;
         break;
     case STATUS1_BURN:
-        if (ability == ABILITY_WATER_VEIL)
+        if (ability == ABILITY_WATER_VEIL || ability == ABILITY_WATER_BUBBLE || ability == ABILITY_COMATOSE)
             ret = TRUE;
         break;
     case STATUS1_PARALYSIS:
-        if (ability == ABILITY_LIMBER)
+        if (ability == ABILITY_LIMBER || ability == ABILITY_COMATOSE)
             ret = TRUE;
         break;
     case STATUS1_SLEEP:
-        if (ability == ABILITY_INSOMNIA || ability == ABILITY_VITAL_SPIRIT)
+        if (ability == ABILITY_INSOMNIA || ability == ABILITY_VITAL_SPIRIT || ability == ABILITY_SWEET_VEIL || ability == ABILITY_COMATOSE)
             ret = TRUE;
         break;
     case STATUS1_TOXIC_POISON:
-        if (ability == ABILITY_IMMUNITY)
+        if (ability == ABILITY_IMMUNITY || ability == ABILITY_COMATOSE || ability == ABILITY_PASTEL_VEIL)
             ret = TRUE;
         break;
     }
