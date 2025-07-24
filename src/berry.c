@@ -1078,24 +1078,20 @@ const struct Berry gBerries[] =
 
     [ITEM_ENIGMA_BERRY - FIRST_BERRY_INDEX] =
     {
-#if GAME_LANGUAGE == LANGUAGE_SPANISH
         .name = _("Enigma"),
-#else
-        .name = _("Enigma"),
-#endif
-        .firmness = BERRY_FIRMNESS_UNKNOWN,
-        .size = 0,
-        .maxYield = 2,
+        .firmness = BERRY_FIRMNESS_HARD,
+        .size = 155,
+        .maxYield = 5,
         .minYield = 1,
         .description1 = sBerryDescriptionPart1_Enigma,
         .description2 = sBerryDescriptionPart2_Enigma,
         .stageDuration = 24,
         .spicy = 40,
-        .dry = 40,
-        .sweet = 40,
-        .bitter = 40,
-        .sour = 40,
-        .smoothness = 40,
+        .dry = 10,
+        .sweet = 0,
+        .bitter = 0,
+        .sour = 0,
+        .smoothness = 60,
     },
 
     [ITEM_OCCA_BERRY - FIRST_BERRY_INDEX] =
@@ -1232,11 +1228,7 @@ const struct Berry gBerries[] =
 
     [ITEM_KEBIA_BERRY - FIRST_BERRY_INDEX] =
     {
-#if GAME_LANGUAGE == LANGUAGE_SPANISH
         .name = _("Kebia"),
-#else
-        .name = _("Kebia"),
-#endif
         .firmness = BERRY_FIRMNESS_HARD,
         .size = 89,
         .maxYield = 5,
