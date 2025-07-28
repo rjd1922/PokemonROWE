@@ -65,7 +65,7 @@ FarawayIsland_Entrance_Text_Sign: @ 82C6D5A
 	.string "“…ber, 6th day\n"
 	.string "If any human…sets foot here…\l"
 	.string "again…et it be a kindhearted pers…\l"
-	.string "…ith that hope, I depar…”$"
+	.string "…ith that hope, I depar…\n"
 	.string "…ji”$"
 
 FarawayIsland_Interior_Text_Mew: @ 82C6DFF
